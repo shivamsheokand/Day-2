@@ -60,7 +60,7 @@ Copy code
 # Future Steps
 Enhanced Functionality: Implement additional features like navigation, dynamic content, or interactive elements.
 Refinement: Improve code quality, adhere to best practices, and apply more sophisticated styling.
-This README serves as documentation for my progress on Day 2. I'm excited to continue this journey and build upon this foundation over the next 99 days!
+This README serves as documentation for my progress on Day 2. I'm excited to continue this journey and build upon this foundation over the next 98 days!
 
 Happy Coding! 🌟
 
